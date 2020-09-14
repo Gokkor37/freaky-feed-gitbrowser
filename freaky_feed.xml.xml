@@ -1,0 +1,15 @@
+<repositories>
+
+	<repository>
+      <name>TV ADDONS</name>
+      <username>tvaddonsco</username>
+      <description>EarthCam, USTVnow Plus, Live Tube</description>
+	</repository>
+   
+	<repository>
+      <name>Gokkor37</name>
+      <username>Freaky</username>
+      <description>USTVcatchup, Free Live TV, UKTV Play</description>
+	</repository>
+
+</repositories>
